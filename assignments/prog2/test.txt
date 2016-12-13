@@ -1,0 +1,7 @@
+akulag4277@
+assignment2akula.c
+assignment2.c
+assignment2.out
+assignment2prev.c
+lsh
+test.txt
