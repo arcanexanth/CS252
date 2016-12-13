@@ -1,7 +1,3 @@
-/*
- *authors: George Hamlin & Gayatri Akula
- *Date: 04/10/16
-*/
 //Libraries
 #include <stdio.h>
 #include <stdlib.h>
